@@ -1,4 +1,4 @@
-# Prediction-Du-Salaire-Du-Data-Scientist
+# Prediction du salaire du Data Scientist
 
 __# Problème de régression__  
 __# Analyse exploratoire des données (EDA)__  
